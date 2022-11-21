@@ -47,4 +47,9 @@ img {
     .Ingredients h3 {
         margin: 0;
     }
+
+    video {
+        max-width: 100%;
+        height: auto;
+    }
 }

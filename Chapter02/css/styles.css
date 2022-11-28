@@ -17,7 +17,7 @@ img {
     }
 
     .MoneyShot,
-    .IntroText{
+    .IntroText {
         margin: 0;
         flex: 1 1 50%;
     }
@@ -26,7 +26,7 @@ img {
         filter: drop-shadow(0 0 20px #0008);
         border: 0;
     }
-    
+
     .IntroText {
         padding: 0.5rem;
         font-size: 2.5rem;
